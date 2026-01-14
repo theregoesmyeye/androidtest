@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tracker Detector</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="devices_found">Devices found:</string>
+</resources>
